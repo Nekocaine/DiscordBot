@@ -1,0 +1,17 @@
+{
+  "name": "nekobot",
+  "version": "1.0.0",
+  "description": "Discord Neko Bot",
+  "main": "Nekobot.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nekocaine",
+  "license": "ISC"
+}
